@@ -1,0 +1,55 @@
+聯合大學資訊工程學系
+二年甲班 
+U1024055
+林時瑋
+20230619
+
+11.7 (Richer Shape Hierarchy) The world of shapes is much richer than the shapes included in
+the inheritance hierarchy of Fig. 11.3. Write down all the shapes you can think of—both two-dimensional and three-dimensional—and form them into a more complete Shape hierarchy with as
+many levels as possible. Your hierarchy should have the base-class Shape from which class TwoDimensionalShape and class ThreeDimensionalShape are derived. [Note: You do not need to write any code
+for this exercise.] We’ll use this hierarchy in the exercises of Chapter 12 to process a set of distinct
+shapes as objects of base-class Shape. (This technique, called polymorphism, is the subject of
+Chapter 12.)
+
+基礎類別 Shape
+二維形狀類別 TwoDimensionalShape
+
+正方形
+長方形
+圓形
+三角形
+梯形
+平行四邊形
+菱形
+六邊形
+五邊形
+等腰梯形
+扇形
+弓形
+圓弧
+半圓
+矩形
+正五邊形
+正六邊形
+正七邊形
+正八邊形
+正多邊形
+...
+
+三維形狀類別 ThreeDimensionalShape
+立方體
+球體
+圓錐
+圓柱體
+正方體（正立方體）
+長方體（長方立方體）
+正圓錐
+正圓柱體
+圓錐台
+圓柱台
+正四面體
+正六面體（立方體）
+正八面體
+正十二面體（二十面體）
+正二十面體（廿面體）
+...
